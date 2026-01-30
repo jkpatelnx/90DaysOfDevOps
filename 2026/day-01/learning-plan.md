@@ -14,7 +14,6 @@ I am starting this challenge to transition from a traditional Linux System Admin
 * **Cloud Automation:** AWS & Terraform (Provisioning infrastructure via code).
 
 ## 4. Weekly Time Budget & Consistency
-
 * **Strategy:** "Consistency over Intensity."
 * **Weekdays:** 2 Hours (1 hour theory + 1 hour lab) – Early Morning or Late Night.
 * **Weekends:** 4-5 Hours (Deep dive labs and project work).
