@@ -65,6 +65,7 @@ In short: systemd manages the entire system lifecycle.
 * Standard init system on modern Linux distributions
 
 ## 4. Here are some commonly used commands in Linux 
+
 * `ls` – list files and directories   
 * `cd` – navigate directories   
 * `ps` – view running processes   
